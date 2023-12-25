@@ -1,0 +1,28 @@
+* {
+  color: white;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: red;
+}
+ul {
+  display: flex;
+  gap: 10px;
+}
+li {
+  list-style-type: none;
+}
+button {
+  all: unset;
+  background-color: red;
+  color: white;
+  padding: 0 10px;
+}
+input {
+  color: black;
+}
+p {
+  color: red;
+}
